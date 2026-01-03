@@ -1,10 +1,10 @@
-# Welcome to Appraisal Science
+# <img width="96" height="96" alt="AppraisalScience Logo" src="https://github.com/user-attachments/assets/32bdbcbf-fa9e-4ff8-b628-8d5b4847a759" /> Welcome to Appraisal Science 
 
-This is our public repository of projects that contribute to advancing the real estate appraisal state of the art.
+## This is our public repository of projects that contribute to advancing the real estate appraisal state of the art.
 
-## Projects
+# Projects
 
-### [md-to-pdf-lite](https://github.com/Appraisal-Science-Inc/md-to-pdf-lite)
+## [md-to-pdf-lite](https://github.com/Appraisal-Science-Inc/md-to-pdf-lite)
 
 A lightweight command-line (terminal) utility for converting Markdown files into PDF files--including the images rendered by the Markdown file.
 - Amazingly, we found that other utilities for Markdown conversion couldn't deal with image references.
