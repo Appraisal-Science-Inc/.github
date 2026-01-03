@@ -2,7 +2,14 @@
 
 This is our public repository of projects that contribute to advancing the real estate appraisal state of the art.
 
-## md-to-pdf-lite
+## Projects
+
+### [md-to-pdf-lite](URL)
+
+A lightweight command-line (terminal) utility for converting Markdown files into PDF files--including the images rendered by the Markdown file.
+- Amazingly, we found that other utilities for Markdown conversion couldn't deal with image references.
+
+
 
 
 
